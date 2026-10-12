@@ -56,3 +56,4 @@ Duplicate number: 2
 ## 🧠 Algorithm
 
 Floyd’s Cycle Detection Algorithm uses two pointers, `slow` and `fast`, to detect a cycle and identify the duplicate number without modifying the array.
+
